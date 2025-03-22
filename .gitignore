@@ -10,3 +10,4 @@
 
 # 临时文件
 .tmp/ 
+node_modules
